@@ -2,6 +2,7 @@ import useInstructors from "../../useInstructors/useInstructors";
 import InstructorsContainer from "../InstructorsContainer/InstructorsContainer";
 
 const Instructors = () => {
+  // import useInstructors to load all instructors data
   const instructors = useInstructors();
 
   return (
