@@ -1,0 +1,7 @@
+[{"id":1,"name":"John Wick","teacher":"Manual car driving Instructor.","img":"https://pyxis.nymag.com/v1/imgs/55b/438/d732205198d1fc4b0aafc8bb302e4e68c2-john-wick.rsquare.w330.jpg","rating":5},
+    {"id":2,"name":"Thanos","teacher":"Auto car driving Instructor.","img":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Josh_Brolin_as_Thanos.jpeg/220px-Josh_Brolin_as_Thanos.jpeg","rating":4},
+    {"id":3,"name":"Tony Stark","teacher":"Automobile and car mechanism instrucor","img":"https://pbs.twimg.com/media/DgJcF_7X4AAxLEp.jpg","rating":5},
+    {"id":4,"name":"The Rock","teacher":"Motorcycle Riding Instructor","img":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5NjIyODM0ODM2ODc0Mzc3/dwayne-the-rock-johnson-gettyimages-1061959920.jpg","rating":4},
+    {"id":5,"name":"Robert Downey","teacher":"Car Modification Instructor","img":"https://see.news/wp-content/uploads/2021/07/jr.jpg","rating":5},
+    {"id":6,"name":"Loki","teacher":"Excavator Instructor","img":"https://pbs.twimg.com/media/EupXjktXIAEL5MM.jpg","rating":4},
+    {"id":7,"name":"Peter Parker","teacher":"Road Roller Instructor","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ21jsHw03SuGstQ68iLpkmZ5paM9rAU4W96g&usqp=CAU","rating":5}]
